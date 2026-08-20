@@ -91,3 +91,17 @@ Natasha Nelliah Zengeni
 BSc Honours in Medical Analytics & Informatics | University of Zimbabwe
 
 Interested in healthcare data analytics, business intelligence, health information systems and data-driven healthcare improvement.
+## 📌 Project Status
+
+**Completed**
+
+## 🧠 Skills Demonstrated
+
+ Healthcare data analysis
+ KPI development
+ Comparative analysis
+ Data visualization
+ Dashboard design
+ DAX
+ Power BI
+ Data interpretation and reporting
