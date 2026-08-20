@@ -65,10 +65,18 @@ These indicators suggest opportunities to improve patient flow, continuity of ca
 - Further investigate the relationship between waiting time and patient satisfaction using facility-level data.
 - Strengthen referral tracking to identify barriers contributing to incomplete referrals.
 - Monitor and improve network connectivity in facilities providing telehealth services.
+  
+📌 Analytical Approach
+
+Data preparation: Data was reviewed and transformed to support analysis across facilities, districts and provinces.
+
+Analysis: Descriptive and comparative analysis was conducted to examine healthcare utilisation, waiting time, medicine stockouts, patient satisfaction, referral completion, telehealth utilisation and network uptime.
+
+Visualisation: Power BI was used to develop interactive KPI cards, geographic comparisons and performance visualisations.
 
 📷 Dashboard Preview
 
-"Zimbabwe Health Access & Service Pressure Dashboard" (screenshots/dashboard_preview.png)
+"Zimbabwe Health Access & Service Pressure Dashboard" (dashboard_preview.png)
 
 ⚠️ Analytical Considerations
 
