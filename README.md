@@ -84,18 +84,11 @@ The dashboard identifies patterns and areas for further investigation but does n
 
 For example, the association between waiting time and patient satisfaction should not be interpreted as proof that longer waiting times directly cause lower satisfaction. Additional facility-level information such as staffing, patient volume, facility capacity and patient-flow characteristics would be required for deeper analysis.
 
-👩🏽‍💻 About the Analyst
-
-Natasha Nelliah Zengeni
-
-BSc Honours in Medical Analytics & Informatics | University of Zimbabwe
-
-Interested in healthcare data analytics, business intelligence, health information systems and data-driven healthcare improvement.
-## 📌 Project Status
+📌 Project Status
 
 **Completed**
 
-## 🧠 Skills Demonstrated
+ 🧠 Skills Demonstrated
 
  Healthcare data analysis
  KPI development
@@ -105,3 +98,11 @@ Interested in healthcare data analytics, business intelligence, health informati
  DAX
  Power BI
  Data interpretation and reporting
+
+👩🏽‍💻 About the Analyst
+
+Natasha Nelliah Zengeni
+
+BSc Honours in Medical Analytics & Informatics | University of Zimbabwe
+
+Interested in healthcare data analytics, business intelligence, health information systems and data-driven healthcare improvement.
